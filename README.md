@@ -35,7 +35,7 @@ Este é um script Python que oferece três funcionalidades principais: renomear 
    - Clone este repositório e navegue até o diretório onde o script está localizado.
    - Execute o script Python:
      ```
-     python nome_do_script.py
+     python main.py
      ```
 
 3. **Exemplo de Uso**:
